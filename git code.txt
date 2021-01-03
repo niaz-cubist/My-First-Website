@@ -8,6 +8,12 @@ git branch -M main
 git remote add origin https://github.com/niaz-cubist/My-First-Website.git
 git push -u origin main
 
+git checkout [branch name]
+git branch [branch name]
+git checkout -b [branch name]
+git push origin [branch name]
+git merge [branch name]
+
 *এখানে প্রথম লাইনে যেই কোডটি লেখা আছে,সেটি এপ্লাই করলে ফোল্ডারের মধ্যে Readme.md নামের একটি ফাইল তৈরী হবে
 *২য় নাম্বার কোড লিখলে git নিজেকে প্রস্তুত করবে
 *৩নাম্বার লাইনের কোড দ্বারা গিটের মধ্যে কোনো ফাইল্কে এড করা হয়,এখানে add এর পরে যদি ফাইলের নাম দেওয়া হয়,সেটি হবে
@@ -18,6 +24,13 @@ git push -u origin main
 *৭ নাম্বার কোড দ্বারা মাস্টার ব্রাঞ্চ না মেইন ব্রাঞ্চে যাবে এটি সিলেক্ট করা হয়
 *৮ নাম্বার কোড দ্বারা বলতে হবে এটি কোন গিটের সাইটে যাবে
 *৯ নাম্বার কোড মেইন বা মাস্টার ব্রাঞ্ছে প্যাকেজ চলে যাবে
+*১০ নাম্বার কোড দ্বারা গিটহাবে নতুন ব্রাঞ্চ খুলা যায়
+*১১ নাম্বার কোড দ্বারা যেকোনো ব্রাঞ্চে সুইচ করা যায়
+*১২ নাম্বার কোড দ্বারা গিঠাবে নতুন ব্রাঞ্চ খুলে সেই ব্রাঞ্চে সুইচ করা যায়
+*১৩ নাম্বার কোড দ্বারা যেই ব্রাঞ্চ নতুন করে তৈরী করা হয়েছে,সেটিকে গিটহাবে পাঠানো হয়
+*১৪ নাম্বার কোড দ্বারা ২টা ব্রাঞ্চ কে এক করা হয়,এ ক্ষেত্রে যেই ব্রাঞ্চ থেকে কড আনা হবে,সেটাকে কোডের ভিতরে লেখা লাগবে
+
+
 
 jodi kokhono git hub e push korar pore edit kora jinish na show kore,tokhn git er url e enter kore browser er refresh option e mouser right button click kore 3rd option
 	show korle chole ashbe
