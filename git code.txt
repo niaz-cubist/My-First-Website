@@ -1,4 +1,4 @@
-echo "# My-First-Website" >> README.md
+giecho "# My-First-Website" >> README.md
 git init
 git add README.md
 git config --global user.email "you@example.com"
@@ -18,3 +18,6 @@ git push -u origin main
 *৭ নাম্বার কোড দ্বারা মাস্টার ব্রাঞ্চ না মেইন ব্রাঞ্চে যাবে এটি সিলেক্ট করা হয়
 *৮ নাম্বার কোড দ্বারা বলতে হবে এটি কোন গিটের সাইটে যাবে
 *৯ নাম্বার কোড মেইন বা মাস্টার ব্রাঞ্ছে প্যাকেজ চলে যাবে
+
+jodi kokhono git hub e push korar pore edit kora jinish na show kore,tokhn git er url e enter kore browser er refresh option e mouser right button click kore 3rd option
+	show korle chole ashbe
